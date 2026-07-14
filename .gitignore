@@ -1,0 +1,22 @@
+# Keil project files
+*.uvoptx
+*.uvguix
+*.uvprojx.bak
+*.uvoptx.bak
+
+# Build output
+Objects/
+Listings/
+*.o
+*.axf
+*.hex
+*.crf
+*.d
+
+# System files (не нужно заливать)
+*.bak
+*.tmp
+*.log
+*.lst
+*.map
+*.htm
